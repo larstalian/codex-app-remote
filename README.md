@@ -1,4 +1,4 @@
-# Codex App Remote Development
+# Codex App remote development
 
 Use the macOS Codex app with your own Linux machine over SSH.
 
@@ -41,3 +41,7 @@ Then run this repo against the Tailscale hostname:
 ```bash
 ./codex-remote.sh --ssh-host <user>@<tailscale-hostname> --apply
 ```
+
+## License
+
+MIT. See [LICENSE](/Users/talian/Documents/New%20project/LICENSE).
